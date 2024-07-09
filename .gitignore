@@ -1,4 +1,4 @@
 .git
 .venv
-chromedriver.exe
+.exe
 chromedriver-win64
